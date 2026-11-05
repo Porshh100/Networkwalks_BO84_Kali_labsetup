@@ -24,11 +24,32 @@
 
 ![](screenshot1)
 
-</p> 
-
-
 </p> I then proceeded to upload my KALI LINUX file, everything went smooth while uploading as I followed the instructions that were given by the instructor.  </p>
 
 ![](screenshot2)
 
+</p> My linux file uploaded and was thrilled to see it running with no complications. </p>
 
+![](screenshot3)
+
+
+</p> To check if the internet was running, I did a few configurations manually and checked the connections information on my kali to see if it's been updated. </p>
+
+![](screenshot4)
+
+</p> There you have it , everything is functioning as it should ! </p>
+
+![](screenshot5)
+
+
+</p> DISCLAIMER, for educational purposes , the lab is intended for AUTHORISED learning activities !!! </p>
+
+
+
+
+
+
+
+
+
+                                                                                
